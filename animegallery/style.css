@@ -1,0 +1,32 @@
+#menu a {
+    text-decoration: none;
+
+    background-color:aquamarine;
+    
+    font-family:helvetica, sans-serif;
+
+    padding: 5px;
+}
+#menu a:hover{
+    background-color: aqua;
+    color:white;
+
+}
+
+h1{
+    color:rgb(13, 170, 201)
+}
+
+p{
+    color:coral;
+}
+
+body{
+    background-color:rgb(71, 216, 13);
+    font-family: cursive;
+}
+
+/*ul{
+    list-style-image: url("https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/0/0a/Rimuru_%28Slime%29_LN.png/revision/latest/scale-to-width/360?cb=20230322164422");
+    list-style-image:
+}*/
